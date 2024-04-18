@@ -1,0 +1,16 @@
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.csproj.AssemblyReference.cache
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Windows\Windows\obj\Debug\TinhThanhTien.MainForm.resources
+C:\New folder (2)\Windows\Windows\bin\Debug\Windows.exe.config
+C:\New folder (2)\Windows\Windows\bin\Debug\Windows.exe
+C:\New folder (2)\Windows\Windows\bin\Debug\Windows.pdb
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.exe
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.pdb
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.frmBai1.resources
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.frmMain.resources
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.frmBai4.resources
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.frmBai5.resources
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.frmBai2.resources
+C:\New folder (2)\Windows\Windows\obj\Debug\Windows.frmBai3.resources
